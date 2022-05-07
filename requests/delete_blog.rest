@@ -1,0 +1,9 @@
+DELETE http://localhost:3003/api/blogs/623d3cd124c691ee105c0994
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjYyM2QxNDFmYjQ0NjI1MTYzY2I3M2FkNiIsImlhdCI6MTY0ODE3Mjc1MH0.ljlOsOYUW1yYph96vzItm12UR-kL_ClChv1BF0JXBT8
+
+###
+DELETE http://localhost:3003/api/blogs/623d3cd124c691ee105c0994
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1sdXVra2FpIiwiaWQiOiI2MjNkMTQyMWI0NDYyNTE2M2NiNzNhZDkiLCJpYXQiOjE2NDgxNzg2OTgsImV4cCI6MTY0ODE4MjI5OH0.tFUfMkedufCjZFeTx7_A25kM4XAd3RIt4vQGrZyad1U
+
+###
+GET http://localhost:3003/api/blogs

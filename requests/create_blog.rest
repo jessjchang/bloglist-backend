@@ -1,0 +1,13 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjYyM2QxNDFmYjQ0NjI1MTYzY2I3M2FkNiIsImlhdCI6MTY0ODE3Mjc1MH0.ljlOsOYUW1yYph96vzItm12UR-kL_ClChv1BF0JXBT8
+
+{
+  "title": "Eigth blog",
+  "author": "authorname8",
+  "url": "http://url.com",
+  "likes": 1
+}
+
+###
+GET http://localhost:3003/api/blogs
